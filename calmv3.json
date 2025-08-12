@@ -1,0 +1,5 @@
+{
+	"NewestVersion":"v3.0.0",
+	"Changes":"Fixed issue with NPC's still wanting to attack you.",
+	"DownloadLocation":"https://github.com/CloudDataHostingLLC/CalmAI"
+}
