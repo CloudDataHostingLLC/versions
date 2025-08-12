@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v3.0.0",
-	"Changes":"Fixed issue with NPC's still wanting to attack you.",
+	"NewestVersion":"v3.1.0",
+	"Changes":"Corrected AI Driving and Lane splitting behavior",
 	"DownloadLocation":"https://github.com/CloudDataHostingLLC/CalmAI"
 }
