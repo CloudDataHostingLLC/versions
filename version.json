@@ -1,0 +1,6 @@
+{
+  "version": "1.9.2",
+  "releasedAt": "2025-08-22T06:10:00Z",
+  "scope": ["leaderboard", "oauth", "logging"],
+  "notes": "Added structured logging system, request IDs, OAuth debug logging, and updated Docker Compose for safer env handling."
+}
